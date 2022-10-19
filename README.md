@@ -1,10 +1,10 @@
 
 <a href="https://www.rcsb.org/structure/6OFA">
-    <img align="left" src="img/6OFA_withwater.gif" class="galleryItem" width=200px></img>
+    <img align="left" src="img/6OFA_withwater.gif" width=400px></img>
 </a>
 
 <a href="https://www.rcsb.org/structure/6OFA">
-    <img align="left" src="img/6OFA_withoutwater.gif" class="galleryItem" width=200px></img>
+    <img align="left" src="img/6OFA_withoutwater.gif" width=400px></img>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
