@@ -13,6 +13,8 @@
 <a href="https://www.rcsb.org/structure/2BEG">
     <img align="" src="img/Ab42_pull.gif" width=450px></img>
 </a>
-
+<a href="https://www.rcsb.org/structure/3HTB">
+    <img align="" src="img/T4_lysozyme_with_ligand_JZ4.gif" width=187px></img>
+</a>
 
 
