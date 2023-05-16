@@ -13,11 +13,17 @@
 <a href="https://www.rcsb.org/structure/2BEG">
     <img align="" src="img/Ab42_pull.gif" width=377px></img>
 </a>
-<a href="https://www.rcsb.org/structure/3HTB">
+<a href="https://www.rcsb.org/structure/3HTB">P
     <img align="" src="img/T4_lysozyme_with_ligand_JZ4.gif" width=156px></img>
 </a>
 <a href="https://www.rcsb.org/structure/1ema">
     <img align="" src="img/GFP_with_CRO.gif" width=135px></img>
+</a>
+<a href="https://github.com/bioexcel/gromacs-2022-cp2k-tutorial">
+    <img align="" src="img/NMA_QMMM.gif" width=165px></img>
+</a>
+<a href="https://github.com/bioexcel/gromacs-2022-cp2k-tutorial">
+    <img align="" src="img/EGFP_QMMM.gif" width=172px></img>
 </a>
 
 <!-- until 837 -->
