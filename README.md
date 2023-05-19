@@ -25,6 +25,9 @@
 <a href="https://github.com/bioexcel/gromacs-2022-cp2k-tutorial">
     <img align="" src="img/EGFP_QMMM.gif" width=172px></img>
 </a>
+<a href="https://ambermd.org/tutorials/advanced/tutorial2/index.php">
+    <img align="" src="img/QMMM_NMA.gif" width=198px></img>
+</a>
 
 <!-- until 837 -->
 
