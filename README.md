@@ -29,7 +29,7 @@
     <img align="" src="img/QMMM_NMA.gif" width=198px></img>
 </a>
 
-<a href="">
+<a href="https://github.com/CCPBioSim/qmmm-workshop">
     <img align="" src="img/QMMM_chorismate.gif" width=198px></img>
 </a>
 
