@@ -29,5 +29,9 @@
     <img align="" src="img/QMMM_NMA.gif" width=198px></img>
 </a>
 
+<a href="">
+    <img align="" src="img/QMMM_chorismate.gif" width=198px></img>
+</a>
+
 <!-- until 837 -->
 
