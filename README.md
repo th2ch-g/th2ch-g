@@ -7,9 +7,6 @@
 <!--     <img align="left" src="img/6OFA_withoutwater.gif" width=400px></img> -->
 <!-- </a> -->
 
-<a href="https://www.rcsb.org/structure/1aki">
-    <img align="" src="img/Lysosome_gromacs.gif" width=167px></img>
-</a>
 <a href="https://www.rcsb.org/structure/2BEG">
     <img align="" src="img/Ab42_pull.gif" width=377px></img>
 </a>
