@@ -20,17 +20,17 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/mogura-rs/mogura/main/assets/simple_8gng.png" alt="simple_8gng" style="height: 150px; object-fit: contain;"></td>
-    <td><img src="https://raw.githubusercontent.com/mogura-rs/mogura/main/assets/selected_8gng.png" alt="selected_8gng" style="height: 150px; object-fit: contain;"></td>
-    <td><img src="https://raw.githubusercontent.com/mogura-rs/mogura/main/assets/simple_5awl.png" alt="simple_5awl" style="height: 150px; object-fit: contain;"></td>
+    <td><img src="https://github.com/mogura-rs/mogura/blob/main/assets/simple_8gng.png" alt="simple_8gng" style="height: 150px; object-fit: contain;"></td>
+    <td><img src="https://github.com/mogura-rs/mogura/blob/main/assets/selected_8gng.png" alt="selected_8gng" style="height: 150px; object-fit: contain;"></td>
+    <td><img src="https://github.com/mogura-rs/mogura/blob/main/assets/simple_5awl.png" alt="simple_5awl" style="height: 150px; object-fit: contain;"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/mogura-rs/mogura/main/assets/chignolin_trajectory.gif" alt="chignolin_trajectory" style="height: 150px; object-fit: contain;"></td>
-    <td><img src="https://raw.githubusercontent.com/mogura-rs/mogura/main/assets/3jac_demo.gif" alt="3jac_demo" style="height: 150px; object-fit: contain;"></td>
-    <td><img src="https://raw.githubusercontent.com/mogura-rs/mogura/main/assets/a2a_demo.gif" alt="a2a_demo" style="height: 150px; object-fit: contain;"></td>
+    <td><img src="https://github.com/mogura-rs/mogura/blob/main/assets/chignolin_trajectory.gif" alt="chignolin_trajectory" style="height: 150px; object-fit: contain;"></td>
+    <td><img src="https://github.com/mogura-rs/mogura/blob/main/assets/3jac_demo.gif" alt="3jac_demo" style="height: 150px; object-fit: contain;"></td>
+    <td><img src="https://github.com/mogura-rs/mogura/blob/main/assets/a2a_demo.gif" alt="a2a_demo" style="height: 150px; object-fit: contain;"></td>
   </tr>
   <tr>
-    <td><img src="img/QMMM_chorismate.gif" alt="chignolin_trajectory" style="height: 150px; object-fit: contain;"></td>
+    <td><img src="https://github.com/th2ch-g/qmmm-workshop-chorismate/blob/master/pics/QMMM_chorismate.gif" alt="chignolin_trajectory" style="height: 150px; object-fit: contain;"></td>
   </tr>
 </table>
 
